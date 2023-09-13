@@ -37,3 +37,36 @@ else
     
 }
 
+//Part 5
+//Problem 1
+let numberA = 5
+let numberB = 10
+
+if numberA  > numberB {
+    print ("the first number is greater")
+}
+else
+{
+    print("The first number is not greater")
+}
+
+//Problem 2
+var variableOne = "Fluffy "
+var variableTwo = "Bunnies"
+var variableThree = variableOne + variableTwo
+
+print(variableThree)
+
+//Problem 3
+
+let isMoon = true
+let isSun = false
+
+if isMoon == isSun
+{ print("the moon and the sun are both visible in the sky together")}
+else
+{ print("either the moon or the sun is visible in the sky")
+    
+}
+
+
